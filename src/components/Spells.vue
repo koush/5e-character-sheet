@@ -109,7 +109,7 @@ export default {
     return {
       name: 'Winston Helldoom Bloodlord',
       occupation: 'Paladin',
-      level: '3',
+      level: '4',
     };
   },
 };
