@@ -393,7 +393,7 @@ export default {
   data() {
     return {
       alignment: 'Chaotic Good',
-      name: 'Winston Helldoom Bloodlord',
+      name: 'Wilhelm Helldoom Bloodlord',
       occupation: 'Paladin',
       level: '4',
       race: 'Goblin',
