@@ -227,7 +227,7 @@
 
           <div class="layout__item  pb2">
             <div class="bg-white">
-              <img class="one-whole" src="../assets/winston.jpg" alt="winston">
+              <img class="one-whole" src="http://res.cloudinary.com/dvjpaoffl/image/upload/v1486636435/winston_brf7my.jpg" alt="winston">
             </div>
           </div>
 

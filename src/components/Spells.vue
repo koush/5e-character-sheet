@@ -17,7 +17,7 @@
     <div class="layout  mb3">
 
       <div class="layout__item  one-fourth">
-        <img class="one-whole" src="../assets/vicious-mockery.jpg" alt="vicious-mockery">
+        <img class="one-whole" src="http://res.cloudinary.com/dvjpaoffl/image/upload/v1486636438/vicious-mockery_cx8mrj.jpg" alt="vicious-mockery">
       </div>
 
       <div class="layout__item  three-fourths">
@@ -43,7 +43,7 @@
     <div class="layout  mb5">
 
       <div class="layout__item  one-fourth">
-        <img class="one-whole" src="../assets/cure-wounds.jpg" alt="cure-wounds">
+        <img class="one-whole" src="http://res.cloudinary.com/dvjpaoffl/image/upload/v1486636435/cure-wounds_yral10.jpg" alt="cure-wounds">
       </div>
 
       <div class="layout__item  three-fourths">
@@ -63,7 +63,7 @@
     <div class="layout  mb5">
 
       <div class="layout__item  one-fourth">
-        <img class="one-whole" src="../assets/wrathful-smite.jpg" alt="wrathful-smite">
+        <img class="one-whole" src="http://res.cloudinary.com/dvjpaoffl/image/upload/v1486636434/wrathful-smite_qdivn3.jpg" alt="wrathful-smite">
       </div>
 
       <div class="layout__item  three-fourths">
@@ -81,7 +81,7 @@
     <div class="layout  mb5">
 
       <div class="layout__item  one-fourth">
-        <img class="one-whole" src="../assets/searing-smite.jpg" alt="searing-smite">
+        <img class="one-whole" src="http://res.cloudinary.com/dvjpaoffl/image/upload/v1486636432/searing-smite_v0epdi.jpg" alt="searing-smite">
       </div>
 
       <div class="layout__item  three-fourths">
