@@ -3,7 +3,7 @@
 
     <div class="layout  layout--center">
       <div class="layout__item  three-fifths  ta-c  mb2">
-        <p><em>"I'm not saying gnomes are stupid. I'm just saying they lack.. creativity. Heck, anyone can make a mechanical mouse, but a bomb that can flatten a village? Now that's art!"<em></p>
+        <p><em>"I'm not saying gnomes are stupid. I'm just saying they lack.. creativity. Heck, anyone can make a mechanical mouse, but a bomb that can flatten a village? Now that's art!"</em></p>
         <p><small>- Drax a goblin artificer</small></p>
       </div>
     </div>

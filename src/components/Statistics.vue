@@ -6,7 +6,7 @@
     <h1>{{ level }}</h1>
     <h1>{{ race }}</h1>
     <h1>{{ alignment }}</h1>
-    <p><em>"I'm not saying gnomes are stupid. I'm just saying they lack.. creativity. Heck, anyone can make a mechanical mouse, but a bomb that can flatten a village? Now that's art!"<em></p>
+    <p><em>"I'm not saying gnomes are stupid. I'm just saying they lack.. creativity. Heck, anyone can make a mechanical mouse, but a bomb that can flatten a village? Now that's art!"</em></p>
     <p>- Drax a goblin artificer</p>
   </div>
 </template>
